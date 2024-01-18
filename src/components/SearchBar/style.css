@@ -1,0 +1,13 @@
+.centralization {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.search-button {
+    font-size: 3rem;
+}
+
+.search-button:hover {
+    cursor: pointer;
+}
